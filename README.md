@@ -34,6 +34,21 @@ Install dependencies
   npm install
 ```
 
+Edit `config.json`
+```diff
+
+-  "guildId": "757590934828613662",
+-  "specialVoiceChannelId": "867686276987092992"
++  "guildId": "YOUR GUILD ID",
++  "specialVoiceChannelId": "YOUR SPECIAL VOICE CHANNEL ID"
+```
+
+Edit `src\.env.example` to `src\.env`
+```diff
+- TOKEN=
++ TOKEN=YOUR TOKEN
+```
+
 Start the bot
 
 ```bash

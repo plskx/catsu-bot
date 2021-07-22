@@ -1,6 +1,6 @@
 ![catsuHeya](https://user-images.githubusercontent.com/57343545/126637973-d9124d54-17c6-4431-9ece-7b90d1f609d1.png)
 
-# Catsu-together
+# Catsu-bot
 
 Simple Discord Bot
 

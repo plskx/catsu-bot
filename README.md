@@ -4,6 +4,16 @@
 
 Simple Discord Bot
 
+• Watch YouTube Together 
+
+• Play Poker Together
+
+• Play Chess Together
+
+• Play Betrayal Together
+
+• Play Fishing Together
+
 ## Run Locally
 
 Clone the project

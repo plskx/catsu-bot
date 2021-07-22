@@ -1,6 +1,33 @@
 # Catsu-together
 
-simple discord bot
+Simple Discord Bot
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/plskz/catsu-together.git
+```
+
+Go to the project directory
+
+```bash
+  cd catsu-together
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the bot
+
+```bash
+  npm start
+```
+
 
 ## Demo:
 
